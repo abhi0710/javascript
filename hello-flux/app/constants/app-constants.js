@@ -2,4 +2,4 @@ let constants = {
 	INCREMENT : "INCREMENT"
 }
 
-export default constant
+export default constants
